@@ -2,8 +2,7 @@ cask "dc-studio" do
   version "0.3.1"
   sha256 "857c15f23b766a143daac2e4ec170d558e032c219e37654a6984bbbf91a08970"
 
-  url "https://github.com/dancechess/studio/releases/download/v#{version}/DC-Studio-#{version}-arm64.dmg",
-      verified: "github.com/dancechess/studio/"
+  url "https://github.com/dancechess/studio/releases/download/v#{version}/DC-Studio-#{version}-arm64.dmg"
   name "DC Studio"
   desc "Chess database with a bundled Stockfish engine"
   homepage "https://dancechess.com/studio/"
