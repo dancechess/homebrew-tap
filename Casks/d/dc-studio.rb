@@ -1,6 +1,6 @@
 cask "dc-studio" do
-  version "0.3.2"
-  sha256 "9e51fe78f5d23e4ddd9e2a5aed9b57ed17a4385a9d0d917de8cabed0f9149749"
+  version "0.3.3"
+  sha256 "f06ea1676bce74263fa7d74295cdc6542d7dac18b079710fbe3890cf941755db"
 
   url "https://github.com/dancechess/studio/releases/download/v#{version}/DC-Studio-#{version}-arm64.dmg"
   name "DC Studio"
